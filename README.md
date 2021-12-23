@@ -5,4 +5,4 @@ On my Github, you will usually find some
 ![](https://img.shields.io/github/followers/koenjdejong?style=for-the-badge)
 
 ## Contact
-![https://www.linkedin.com/in/koendejong-/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
