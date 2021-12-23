@@ -5,5 +5,6 @@ On my Github, you will usually find university related and personal repositories
 ![](https://img.shields.io/github/followers/koenjdejong?style=for-the-badge)
 
 ## Contact
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-        - [📊 Analytics](#-analytics-)
+<p style="align: center">
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>        
+</p>
