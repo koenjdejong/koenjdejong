@@ -6,3 +6,4 @@ On my Github, you will usually find university related and personal repositories
 
 ## Contact
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+        - [📊 Analytics](#-analytics-)
