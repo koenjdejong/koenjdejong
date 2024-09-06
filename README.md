@@ -1,7 +1,7 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is __Koen de Jong__ and I am currently studying Technical Computer Science at the University of Twente.  
-On my Github, you will find personal and university related repositories.  
+My name is __Koen de Jong__ and I am currently studying doing my Masters in Computer Science at the University of Twente.  
+On my Github, you will find personal and study-related repositories.  
 
 
 ## Contact
